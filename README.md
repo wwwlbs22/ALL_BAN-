@@ -1,12 +1,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# DAXX BAN ALL BOT
+# BAN ALL BOT
 
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAXXTEAM&repo=DAXXBANALL&theme=flag-india)
-[![GIF](https://github.com/DAXXTEAM/DAXXBANALL/blob/main/DAXXTEAM.gif)](https://github.com/DAXXTEAM)
-   [![𝐌𝐑.𝐃𝐀𝐗𝐗](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wwwlbs22&repo=ALL_BAN-&theme=flag-india)
+[![GIF](https://github.com/wwwlbs22/ALL_BAN-/blob/main/wwwlbs22.gif)](https://github.com/wwwlbs22)
+   [![Mr.Artist](https://github-stats-alpha.vercel.app/api?username=wwwlbs22 "ALL_BAN-")](https://github-stats-alpha.vercel.app/api?username=DAXXTEAM "MRDAXX")
                   
 
 
@@ -22,11 +22,11 @@
 - 𝗿𝗲𝘀𝘁𝗮𝗿𝘁
 
 
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DAXXTEAM&show_icons=true&locale=en&layout=compact" alt="DAXXTEAM" /></p>
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wwwlbs22&show_icons=true&locale=en&layout=compact" alt="DAXXTEAM" /></p>
 
 
 # Deploy To Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/DAXXTEAM/DAXXBANALL)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/wwwlbs22/ALL_BAN-)
 
 ### Contact :
 <a href="https://t.me/cyberdaxx"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
